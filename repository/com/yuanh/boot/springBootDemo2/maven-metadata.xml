@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.yuanh.boot</groupId>
+  <artifactId>springBootDemo2</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180314012706</lastUpdated>
+  </versioning>
+</metadata>
